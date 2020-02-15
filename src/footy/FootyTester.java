@@ -1,7 +1,5 @@
 package footy;
 
-import FootyScore;
-
 import java.io.PrintWriter;
 
 public class FootyTester {

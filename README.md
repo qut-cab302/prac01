@@ -1,6 +1,6 @@
 # Hello World!
 
-Open `helloworld/HelloWorld.java` and have the program print "Hello World!" when run.
+Open `helloworld/HelloWorld.java` and modify the code such that the program prints "Hello World!" when run.
 
 # Debugging a summation program
 
