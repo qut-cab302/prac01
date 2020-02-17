@@ -1,3 +1,5 @@
+This week's practical exercises aim to get you familiar with Java and IntelliJ IDEA via basic programming exercises.
+
 # Hello World!
 
 Open `HelloWorld.java` and modify the code such that the program prints "Hello World!" when run.
