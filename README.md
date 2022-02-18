@@ -16,6 +16,8 @@ This exercise will give you practice using IDEA's debugger. Open `Summation.java
 
 # Footy Score
 
+*Note that the FootyScore package has been excluded by default in the Git repository, to avoid this causing compilation to fail when you are completing the other exercises. Once you've implemented a working FootyScore class, right-click on the footyScore package in the project view, click 'Mark Directory as' -> 'Cancel Exclusion' to fix this.*
+
 This exercise will give you experience at developing a simple (concrete) _class_ in Java. In Australian Rules Football, teams earns _points_ by kicking _goals_, worth six points each, and _behinds_, worth one point each. Your job is to create `FootyScore.java` which keeps track of the score earned by a particular team. This class needs to:
 
 * declare a private data structure sufficient to keep track of the team's score;
