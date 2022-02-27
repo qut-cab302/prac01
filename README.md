@@ -4,6 +4,8 @@ This week's practical exercises aim to get you familiar with Java and IntelliJ I
 
 Open `HelloWorld.java` and modify the code such that the program prints "Hello World!" when run.
 
+Note that, as this project was originally configured for JDK 1.8, you will get a message up the top asking if you want to download JDK 1.8. There is no need for this! Just click the 'Configure...' link on the right of that message and select JDK 17, which is the Amazon Corretto you configured. Now the project should compile and run.
+
 # Debugging a summation program
 
 This exercise will give you practice using IDEA's debugger. Open `Summation.java`. This program is meant to calculate the sum of the natural numbers in a given range. The range is expressed by constants for the starting and finishing numbers, inclusive. Recall, for instance that the sum of `i` over 1<=`i`<=5 is 15.
